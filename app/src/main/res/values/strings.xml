@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Image Caption Generator</string>
+    <string name="title_activity_opt">OptActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Image Caption Generator</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Image Caption Generator</string>
+    <string name="menu_gallery">Feedback</string>
+    <string name="menu_slideshow">Developers</string>
+    <string name="menu_logout">Logout</string>
+    <string name="menu_info">info</string>
+    <string name="sign_up">Sign UP</string>
+    <string name="already_have_an_account_sign_in">Already have an account? Sign In</string>
+    <string name="sign_up2">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="todo">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
